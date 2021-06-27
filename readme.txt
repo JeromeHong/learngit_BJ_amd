@@ -4,3 +4,4 @@ Git has a metable index called stage.
 Git tracks changes of files.
 Test diff command.
 Create a new branch is quick.
+Feature1 branch.
