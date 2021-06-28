@@ -6,4 +6,4 @@ Test diff command.
 Create a new branch is quick.
 Create a new branch is quick and simple.
 Feature1 branch.
-test merge.
+test merge. test not stash before swich to another branch.
